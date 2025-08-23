@@ -9,6 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:       # 👈 esto va dentro del job, al mismo nivel que runs-on
+      contents: write 
 
     strategy:
       matrix:
