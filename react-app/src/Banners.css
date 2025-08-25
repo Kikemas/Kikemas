@@ -1,0 +1,29 @@
+.listConfig{
+    margin-left: 2050px;
+    list-style-type: none;
+    align-content: center;
+
+}
+
+
+.banner{
+    offset-rotate: 10;
+    margin-bottom: 35px;
+    max-width: 300px;
+    max-height: 300px;
+    transform: rotate(-30deg);
+    transform-origin: bottom right;
+}
+
+.banner:hover {
+  animation: girar 3s linear infinite;
+}
+
+@keyframes girar {
+  from {
+    transform: rotate(360deg);   /* empieza sin girar */
+  }
+  to {
+    transform: rotate(0deg); /* da una vuelta completa */
+  }
+}
