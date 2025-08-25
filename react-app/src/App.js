@@ -4,7 +4,7 @@ import Button from './Button';
 
 function App() {
   return (
-    <div className="App" id='root'>
+    <div className="App" >
       <Button />
     </div>
   );
