@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/Kikemas/static/css/main.8e478baa.css",
-    "main.js": "/Kikemas/static/js/main.b7c2ea1f.js",
+    "main.css": "/Kikemas/static/css/main.9df114b7.css",
+    "main.js": "/Kikemas/static/js/main.31843e7d.js",
     "static/js/453.98bb53cb.chunk.js": "/Kikemas/static/js/453.98bb53cb.chunk.js",
+    "static/media/bandera_inglesa.jpg": "/Kikemas/static/media/bandera_inglesa.d6ff20e3be3bc23c2c14.jpg",
+    "static/media/bandera_japonesa.jpg": "/Kikemas/static/media/bandera_japonesa.050cec7c4b1fb5aae94e.jpg",
+    "static/media/bandera_espanola.jpg": "/Kikemas/static/media/bandera_espanola.9ffe2b578de68b481eda.jpg",
     "index.html": "/Kikemas/index.html",
-    "main.8e478baa.css.map": "/Kikemas/static/css/main.8e478baa.css.map",
-    "main.b7c2ea1f.js.map": "/Kikemas/static/js/main.b7c2ea1f.js.map",
+    "main.9df114b7.css.map": "/Kikemas/static/css/main.9df114b7.css.map",
+    "main.31843e7d.js.map": "/Kikemas/static/js/main.31843e7d.js.map",
     "453.98bb53cb.chunk.js.map": "/Kikemas/static/js/453.98bb53cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e478baa.css",
-    "static/js/main.b7c2ea1f.js"
+    "static/css/main.9df114b7.css",
+    "static/js/main.31843e7d.js"
   ]
 }
