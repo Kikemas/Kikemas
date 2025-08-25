@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Kikemas/static/css/main.8e478baa.css",
-    "main.js": "/Kikemas/static/js/main.f738f096.js",
-    "static/js/453.98bb53cb.chunk.js": "/Kikemas/static/js/453.98bb53cb.chunk.js",
+    "main.css": "/Kikemas/static/css/main.4b49df40.css",
+    "main.js": "/Kikemas/static/js/main.901e6ccc.js",
     "index.html": "/Kikemas/index.html",
-    "main.8e478baa.css.map": "/Kikemas/static/css/main.8e478baa.css.map",
-    "main.f738f096.js.map": "/Kikemas/static/js/main.f738f096.js.map",
-    "453.98bb53cb.chunk.js.map": "/Kikemas/static/js/453.98bb53cb.chunk.js.map"
+    "main.4b49df40.css.map": "/Kikemas/static/css/main.4b49df40.css.map",
+    "main.901e6ccc.js.map": "/Kikemas/static/js/main.901e6ccc.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e478baa.css",
-    "static/js/main.f738f096.js"
+    "static/css/main.4b49df40.css",
+    "static/js/main.901e6ccc.js"
   ]
 }
